@@ -1,9 +1,9 @@
 # API---Temperatura
 
-#Sobre o projeto:
+# Sobre o projeto:
 
-#Tecnologias Utilizadas:
-HTML
-JavaScript
-CSS
+# Tecnologias Utilizadas:
+-HTML
+-JavaScript
+-CSS
 
