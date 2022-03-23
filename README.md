@@ -3,7 +3,6 @@
 # Sobre o projeto:
 
 # Tecnologias Utilizadas:
--HTML
--JavaScript
--CSS
-
+- HTML
+- JavaScript
+- CSS
